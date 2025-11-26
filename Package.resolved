@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "DifferenceKit",
-        "repositoryURL": "https://github.com/ra1028/DifferenceKit.git",
+        "repositoryURL": "https://github.com/JWIMaster/DifferenceKit",
         "state": {
-          "branch": null,
-          "revision": "62745d7780deef4a023a792a1f8f763ec7bf9705",
-          "version": "1.2.0"
+          "branch": "master",
+          "revision": "3e3107bdbd9987e70b7b4e38eb39b1d3bbe8714c",
+          "version": null
         }
       }
     ]
