@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "DiffableDataSources",
     platforms: [
-        .iOS(.v9), .macOS(.v10_11), .tvOS(.v9)
+        .iOS("7.0"), .macOS(.v10_11), .tvOS(.v9)
     ],
     products: [
         .library(name: "DiffableDataSources", targets: ["DiffableDataSources"])
